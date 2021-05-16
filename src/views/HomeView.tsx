@@ -14,7 +14,7 @@ import { useState } from "react";
 
 interface IProps {}
 
-const NAME: string = "ENRIQUE SHUNNAR";
+const NAME: string = "David Li";
 const POSITION: string = "Fullstack Developer";
 
 const HomeView: FunctionComponent<IProps> = () => {
